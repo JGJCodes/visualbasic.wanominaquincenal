@@ -1,0 +1,48 @@
+E:\Documentos\Proyectos VS.NET\wajgjNominaQuincenal\wajgjNominaQuincenal\bin\Debug\wajgjNominaQuincenal.exe
+E:\Documentos\Proyectos VS.NET\wajgjNominaQuincenal\wajgjNominaQuincenal\bin\Debug\wajgjNominaQuincenal.pdb
+E:\Documentos\Proyectos VS.NET\wajgjNominaQuincenal\wajgjNominaQuincenal\bin\Debug\wajgjNominaQuincenal.xml
+E:\Documentos\Proyectos VS.NET\wajgjNominaQuincenal\wajgjNominaQuincenal\obj\Debug\ResolveAssemblyReference.cache
+E:\Documentos\Proyectos VS.NET\wajgjNominaQuincenal\wajgjNominaQuincenal\obj\Debug\WAJGJNominaQuincenal.Form1.resources
+E:\Documentos\Proyectos VS.NET\wajgjNominaQuincenal\wajgjNominaQuincenal\obj\Debug\WAJGJNominaQuincenal.Resources.resources
+E:\Documentos\Proyectos VS.NET\wajgjNominaQuincenal\wajgjNominaQuincenal\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Documentos\Proyectos VS.NET\wajgjNominaQuincenal\wajgjNominaQuincenal\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Documentos\Proyectos VS.NET\wajgjNominaQuincenal\wajgjNominaQuincenal\obj\Debug\wajgjNominaQuincenal.exe
+E:\Documentos\Proyectos VS.NET\wajgjNominaQuincenal\wajgjNominaQuincenal\obj\Debug\wajgjNominaQuincenal.xml
+E:\Documentos\Proyectos VS.NET\wajgjNominaQuincenal\wajgjNominaQuincenal\obj\Debug\wajgjNominaQuincenal.pdb
+F:\Documentos\Proyectos VS.NET\wajgjNominaQuincenal\wajgjNominaQuincenal\obj\Debug\wajgjNominaQuincenal.exe
+F:\Documentos\Proyectos VS.NET\wajgjNominaQuincenal\wajgjNominaQuincenal\obj\Debug\wajgjNominaQuincenal.xml
+F:\Documentos\Proyectos VS.NET\wajgjNominaQuincenal\wajgjNominaQuincenal\obj\Debug\wajgjNominaQuincenal.pdb
+F:\Documentos\Proyectos VS.NET\wajgjNominaQuincenal\wajgjNominaQuincenal\bin\Debug\wajgjNominaQuincenal.exe
+F:\Documentos\Proyectos VS.NET\wajgjNominaQuincenal\wajgjNominaQuincenal\bin\Debug\wajgjNominaQuincenal.pdb
+F:\Documentos\Proyectos VS.NET\wajgjNominaQuincenal\wajgjNominaQuincenal\bin\Debug\wajgjNominaQuincenal.xml
+F:\Documentos\Proyectos VS.NET\wajgjNominaQuincenal\wajgjNominaQuincenal\obj\Debug\ResolveAssemblyReference.cache
+F:\Documentos\Proyectos VS.NET\wajgjNominaQuincenal\wajgjNominaQuincenal\obj\Debug\WAJGJNominaQuincenal.Form1.resources
+F:\Documentos\Proyectos VS.NET\wajgjNominaQuincenal\wajgjNominaQuincenal\obj\Debug\WAJGJNominaQuincenal.Resources.resources
+F:\Documentos\Proyectos VS.NET\wajgjNominaQuincenal\wajgjNominaQuincenal\obj\Debug\GenerateResource-ResGen.read.1.tlog
+F:\Documentos\Proyectos VS.NET\wajgjNominaQuincenal\wajgjNominaQuincenal\obj\Debug\GenerateResource-ResGen.write.1.tlog
+K:\Documentos\Proyectos VS.NET\wajgjNominaQuincenal\wajgjNominaQuincenal\obj\Debug\wajgjNominaQuincenal.exe
+K:\Documentos\Proyectos VS.NET\wajgjNominaQuincenal\wajgjNominaQuincenal\obj\Debug\wajgjNominaQuincenal.xml
+K:\Documentos\Proyectos VS.NET\wajgjNominaQuincenal\wajgjNominaQuincenal\obj\Debug\wajgjNominaQuincenal.pdb
+K:\Documentos\Proyectos VS.NET\wajgjNominaQuincenal\wajgjNominaQuincenal\bin\Debug\wajgjNominaQuincenal.exe
+K:\Documentos\Proyectos VS.NET\wajgjNominaQuincenal\wajgjNominaQuincenal\bin\Debug\wajgjNominaQuincenal.pdb
+K:\Documentos\Proyectos VS.NET\wajgjNominaQuincenal\wajgjNominaQuincenal\bin\Debug\wajgjNominaQuincenal.xml
+K:\Documentos\Proyectos VS.NET\wajgjNominaQuincenal\wajgjNominaQuincenal\obj\Debug\ResolveAssemblyReference.cache
+K:\Documentos\Proyectos VS.NET\wajgjNominaQuincenal\wajgjNominaQuincenal\obj\Debug\WAJGJNominaQuincenal.Form1.resources
+K:\Documentos\Proyectos VS.NET\wajgjNominaQuincenal\wajgjNominaQuincenal\obj\Debug\WAJGJNominaQuincenal.Resources.resources
+K:\Documentos\Proyectos VS.NET\wajgjNominaQuincenal\wajgjNominaQuincenal\obj\Debug\GenerateResource-ResGen.read.1.tlog
+K:\Documentos\Proyectos VS.NET\wajgjNominaQuincenal\wajgjNominaQuincenal\obj\Debug\GenerateResource-ResGen.write.1.tlog
+K:\Documentos\Proyectos VS.NET\wajgjNominaQuincenal\wajgjNominaQuincenal\obj\Debug\GenerateResource-ResGen.read.4.tlog
+F:\ \Documentos\Proyectos VS.NET\wajgjNominaQuincenal\wajgjNominaQuincenal\obj\Debug\wajgjNominaQuincenal.exe
+F:\ \Documentos\Proyectos VS.NET\wajgjNominaQuincenal\wajgjNominaQuincenal\obj\Debug\wajgjNominaQuincenal.xml
+F:\ \Documentos\Proyectos VS.NET\wajgjNominaQuincenal\wajgjNominaQuincenal\obj\Debug\wajgjNominaQuincenal.pdb
+C:\Users\jorge\Documents\Github\Visualbasic-Examples\wajgjNominaQuincenal\wajgjNominaQuincenal\bin\Debug\wajgjNominaQuincenal.exe
+C:\Users\jorge\Documents\Github\Visualbasic-Examples\wajgjNominaQuincenal\wajgjNominaQuincenal\bin\Debug\wajgjNominaQuincenal.pdb
+C:\Users\jorge\Documents\Github\Visualbasic-Examples\wajgjNominaQuincenal\wajgjNominaQuincenal\bin\Debug\wajgjNominaQuincenal.xml
+C:\Users\jorge\Documents\Github\Visualbasic-Examples\wajgjNominaQuincenal\wajgjNominaQuincenal\obj\Debug\wajgjNominaQuincenal.vbprojAssemblyReference.cache
+C:\Users\jorge\Documents\Github\Visualbasic-Examples\wajgjNominaQuincenal\wajgjNominaQuincenal\obj\Debug\WAJGJNominaQuincenal.Form1.resources
+C:\Users\jorge\Documents\Github\Visualbasic-Examples\wajgjNominaQuincenal\wajgjNominaQuincenal\obj\Debug\WAJGJNominaQuincenal.Resources.resources
+C:\Users\jorge\Documents\Github\Visualbasic-Examples\wajgjNominaQuincenal\wajgjNominaQuincenal\obj\Debug\wajgjNominaQuincenal.vbproj.GenerateResource.cache
+C:\Users\jorge\Documents\Github\Visualbasic-Examples\wajgjNominaQuincenal\wajgjNominaQuincenal\obj\Debug\wajgjNominaQuincenal.vbproj.CoreCompileInputs.cache
+C:\Users\jorge\Documents\Github\Visualbasic-Examples\wajgjNominaQuincenal\wajgjNominaQuincenal\obj\Debug\wajgjNominaQuincenal.exe
+C:\Users\jorge\Documents\Github\Visualbasic-Examples\wajgjNominaQuincenal\wajgjNominaQuincenal\obj\Debug\wajgjNominaQuincenal.xml
+C:\Users\jorge\Documents\Github\Visualbasic-Examples\wajgjNominaQuincenal\wajgjNominaQuincenal\obj\Debug\wajgjNominaQuincenal.pdb
